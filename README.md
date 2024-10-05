@@ -17,7 +17,7 @@ As Dennis Furnishings continues to expand, it is essential to gain a deeper unde
 ## SKILL & CONCEPT DEMOSTRATED
 - **Business Overview:** Understanding the business, and their expectations.
 - **Data Overview:** Looking into the data and exploring it’s relevance to the business.
-- **Data Extraction:** Extract product, order, and customer data from the provided SQL file.
+- **Data Extraction:** Extract product, order, and customer data from the company's DataBase.
 - **SQL Queries:** Write SQL queries to extract key metrics and insights from the data.
 - **Recommendations:** Provide business recommendations based on the analysis.
 
