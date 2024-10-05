@@ -29,3 +29,4 @@ As Dennis Furnishings continues to expand, it is essential to gain a deeper unde
 GROUPING:** Apply SQL WHERE clauses and GROUP BY to filter and segment data by product category, region, and year.
 
 ## MODELLING
+![image](https://github.com/user-attachments/assets/cb155d10-bb09-4c2a-b777-d4f10d32648c)
