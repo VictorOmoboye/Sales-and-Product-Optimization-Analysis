@@ -39,7 +39,8 @@ This query retrieves a comprehensive dataset that encompasses all relevant detai
 
 
 This query outputs the cities and states where Dennis Office Supplies properties are located, revealing that the company operates across 20 states in the United States. By providing a detailed view of the geographic distribution of these properties, the query allows for better understanding of the company’s market presence and customer reach, enabling targeted strategies for sales and inventory management in different regions.
-![image](https://github.com/user-attachments/assets/d6e0893e-767a-4349-b49e-60c0e65b1f71)
+![image](https://github.com/user-attachments/assets/e375ae28-db28-4f6d-856a-553a1e75f0a2)
+
 
 
 This query presents the data output of the various product categories available at Dennis Office Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
