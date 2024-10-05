@@ -8,13 +8,24 @@ This project presents a comprehensive analysis of sales performance, product inv
 As Dennis Furnishings continues to expand, it is essential to gain a deeper understanding of business performance across various product categories and customer segments. The company needs to identify the top-performing products driving the highest sales, determine which properties are placing the most orders, and uncover underperforming categories. This knowledge is crucial for optimizing operational efficiency and driving sustained growth.
 
 ## AIM OF THE PROJECT
--
+- Analyze sales trends and performance across product categories such as office supplies and furnishings.
+- Identify high performing and underperforming products to optimize inventory.
+- Evaluate customer orders and understand the distribution of sales across properties and regions.
+- Provide a clear understanding of year over year sales performance using SQL queries and visualizations.
+- Use insights to make recommendations for enhancing business profitability.
 
 ## SKILL & CONCEPT DEMOSTRATED
-- Business Understanding
-- Data Understanding & Preparation
-- Data import into Tableau
-- Create calculated fields and bulid visualizations
-- Design the dashboard layout
+- **Business Overview:** Understanding the business, and their expectations.
+- **Data Overview:** Looking into the data and exploring it’s relevance to the business.
+- **Data Extraction:** Extract product, order, and customer data from the provided SQL file.
+- **SQL Queries:** Write SQL queries to extract key metrics and insights from the data.
+- **Recommendations:** Provide business recommendations based on the analysis.
+
+## SQL TOOLS AND FEATURES
+- **SQL QUERIES:** Extract relevant data from the Products, Orders, and PropertyInfo tables.
+- **JOINS:** Combine data across tables to create comprehensive views of orders, products, and customers.
+- **AGGREGATIONS:** Use SQL functions like SUM(), AVG(), and COUNT() to calculate key metrics such as total sales and product quantities.
+- **FILTERING AND
+GROUPING:** Apply SQL WHERE clauses and GROUP BY to filter and segment data by product category, region, and year.
 
 ## MODELLING
