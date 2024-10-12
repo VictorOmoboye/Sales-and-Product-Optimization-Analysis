@@ -33,16 +33,21 @@ I visualize the logical schema through an Entity-Relationship Diagram (ERD) to e
 ![image](https://github.com/user-attachments/assets/cb155d10-bb09-4c2a-b777-d4f10d32648c)
 
 ## DATA ANALYSIS
-#### This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
+This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
+
 ![image](https://github.com/user-attachments/assets/d0837298-ae17-4fee-a33d-4b19e86027c9)
 
-#### This query outputs the cities and states where Dennis Office Supplies properties are located, revealing that the company operates across 20 states in the United States. By providing a detailed view of the geographic distribution of these properties, the query allows for better understanding of the company’s market presence and customer reach, enabling targeted strategies for sales and inventory management in different regions.
+
+
+This query outputs the cities and states where Dennis Office Supplies properties are located, revealing that the company operates across 20 states in the United States. By providing a detailed view of the geographic distribution of these properties, the query allows for better understanding of the company’s market presence and customer reach, enabling targeted strategies for sales and inventory management in different regions.
+
 ![image](https://github.com/user-attachments/assets/d7ed9c74-3d8c-4069-9678-63263952b2d2)
 
 
 
 
 This query presents the data output of the various product categories available at Dennis Office Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
+
 ![image](https://github.com/user-attachments/assets/09519594-e3c8-4966-8255-194c90427210)
 
 
@@ -56,23 +61,28 @@ This query outputs the product categories along with the corresponding number of
 
 
 This query reveals the five most expensive products, with the **King Bed** priced highest at $300, followed by the **Double Bed**. On the lower end, **Washcloth**, **Flyer Holder**, and **Paper Clips** are among the least expensive products, each priced at $3. This analysis highlights the pricing distribution of products, offering insights into premium versus budget product categories and helping guide pricing strategies and sales focus.
+
 ![image](https://github.com/user-attachments/assets/9f067ab4-2f1e-48c2-9777-675277913f78)
 
 
 
 This query displays the average price of products in each category, revealing that **Furnishings** has the highest average price at $83.65, followed by **Public Areas**. In contrast, **Office Supplies** has the lowest average price at $22.69, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
+
 ![image](https://github.com/user-attachments/assets/8a0dc9b7-9aeb-4e08-b522-1df491db5fb7)
 
 
 This query extracts the names and categories of products priced above $200, revealing four products that meet this criterion: **Bed (King)**, **Bed (Double)**, **Leaf Blower**, and **Sofa**. This analysis helps identify premium products within the inventory, offering insights into high-value items that can be targeted for marketing or sales promotions.
+
 ![image](https://github.com/user-attachments/assets/91a670b7-2879-43e6-8bca-505694324f09)
 
 
 This query displays the total quantity of products ordered in **2015** and **2016**, revealing that **5,015** products were ordered in 2015 and **5,081** products were ordered in 2016. This analysis indicates a slight increase in product demand over the two years, providing valuable insights into sales trends and helping to forecast future inventory needs.
+
 ![image](https://github.com/user-attachments/assets/4b46be7a-8ac1-4680-8029-34b1346a7abe)
 
 
 This query evaluates whether a product's price is more than $200, creating a new column that indicates if a product is "**Above 200**" or "**Below or Equal to 200**." The results reveal that only **4 products** out of **94 product categories** fall into the "**Above 200**" category, while the majority are priced "**Below or Equal to 200**." This classification provides a clear view of the distribution of high-value versus more affordable products, aiding in pricing strategy and product segmentation.
+
 ![image](https://github.com/user-attachments/assets/04cd53c6-b871-4f56-b6c0-ace06c1851ca)
 
 
