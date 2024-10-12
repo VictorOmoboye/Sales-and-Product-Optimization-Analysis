@@ -73,5 +73,7 @@ This query displays the total quantity of products ordered in **2015** and **201
 ![image](https://github.com/user-attachments/assets/4b46be7a-8ac1-4680-8029-34b1346a7abe)
 
 
+This query evaluates whether a product's price is more than $200, creating a new column that indicates if a product is "**Above 200**" or "**Below or Equal to 200**." The results reveal that only **4 products** out of **94 product categories** fall into the "**Above 200**" category, while the majority are priced "**Below or Equal to 200**." This classification provides a clear view of the distribution of high-value versus more affordable products, aiding in pricing strategy and product segmentation.
+
 
 
