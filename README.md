@@ -79,4 +79,20 @@ This query evaluates whether a product's price is more than $200, creating a new
 
 
 ## RECOMMENDATION
+Here are some strategic recommendations based on the insights drawn from the dataset using SQL queries:
 
+- **Focus on High-Value Products**: With only 4 products priced above $200, consider targeted marketing strategies for these premium items (e.g., King Bed, Double Bed, Leaf Blower, Sofa) to maximize revenue from high-value sales.
+
+- **Optimize Inventory for Popular Categories**: Furnishings have the highest product count and average price. Ensure adequate stock and consider expanding the range in this category to meet demand.
+
+- **Adjust Pricing Strategy**: Since Office Supplies have the lowest average price ($22.69), explore opportunities for bundle deals or price adjustments to increase profitability without losing volume.
+
+- **Monitor Sales Trends**: The slight increase in total orders from 2015 (5,015) to 2016 (5,081) suggests a growing demand. Use this trend to forecast future inventory needs and adjust production accordingly.
+
+- **Expand Presence in High-Demand Locations**: Analyze the data on properties across 20 states and focus on regions with the highest sales for targeted marketing efforts and expanding the distribution network.
+
+- **Diversify Product Offerings in Low-Performing Categories**: For categories that are underperforming in terms of sales volume, consider introducing new products or discontinuing low-demand items to optimize the product range.
+
+- **Regularly Reevaluate Product Pricing**: Use the price classification data to periodically reassess product pricing strategies, ensuring alignment with market demand and competition.
+
+These recommendations aim to guide stakeholders at Dennis Office Supplies toward more data-driven decisions for maximizing sales, optimizing inventory, and improving overall business performance.
