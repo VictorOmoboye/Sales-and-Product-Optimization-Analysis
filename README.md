@@ -34,7 +34,7 @@ I visualize the logical schema through an Entity-Relationship Diagram (ERD) to e
 
 ## DATA ANALYSIS
 This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
-![Screenshot 2024-10-05 174600](https://github.com/user-attachments/assets/c4153162-6040-4808-b4b0-cc84589a5f91)
+![image](https://github.com/user-attachments/assets/d0837298-ae17-4fee-a33d-4b19e86027c9)
 
 
 
