@@ -78,5 +78,5 @@ This query evaluates whether a product's price is more than $200, creating a new
 ![image](https://github.com/user-attachments/assets/04cd53c6-b871-4f56-b6c0-ace06c1851ca)
 
 
-## RECOMENDATION
+## RECOMMENDATION
 
