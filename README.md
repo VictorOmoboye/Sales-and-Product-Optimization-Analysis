@@ -69,5 +69,9 @@ This query extracts the names and categories of products priced above $200, reve
 ![image](https://github.com/user-attachments/assets/91a670b7-2879-43e6-8bca-505694324f09)
 
 
+This query displays the total quantity of products ordered in **2015** and **2016**, revealing that **5,015** products were ordered in 2015 and **5,081** products were ordered in 2016. This analysis indicates a slight increase in product demand over the two years, providing valuable insights into sales trends and helping to forecast future inventory needs.
+![image](https://github.com/user-attachments/assets/4b46be7a-8ac1-4680-8029-34b1346a7abe)
+
+
 
 
