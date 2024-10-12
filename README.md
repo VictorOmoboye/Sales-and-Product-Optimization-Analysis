@@ -32,7 +32,7 @@ GROUPING:** Apply SQL WHERE clauses and GROUP BY to filter and segment data by p
 I visualize the logical schema through an Entity-Relationship Diagram (ERD) to effectively convey the logical constraints and associations within the database. This approach enhances my understanding of the organization of the tables and their interrelationships, revealing that the dataset comprises three distinct tables: **Orders**, **Products**, and **PropertyInfo**. These tables are interconnected through primary and foreign key relationships, enabling seamless data retrieval and analysis. The ERD serves as a foundational tool for identifying how data flows between entities, ensuring clarity in the modeling process and supporting the overall analysis of sales performance and customer behavior trends for Dennis Office Supplies.
 ![image](https://github.com/user-attachments/assets/cb155d10-bb09-4c2a-b777-d4f10d32648c)
 
-## Data Analysis
+## DATA ANALYSIS
 This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
 ![Screenshot 2024-10-05 174600](https://github.com/user-attachments/assets/c4153162-6040-4808-b4b0-cc84589a5f91)
 
@@ -78,4 +78,5 @@ This query evaluates whether a product's price is more than $200, creating a new
 ![image](https://github.com/user-attachments/assets/04cd53c6-b871-4f56-b6c0-ace06c1851ca)
 
 
+## RECOMENDATION
 
