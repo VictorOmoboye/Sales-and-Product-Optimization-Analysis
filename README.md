@@ -2,10 +2,10 @@
 ## Leveraging SQL Data Query Language for Data-Driven Analysis of Sales and Product Performance at Dennies Furnishing Supplies
 ![image](https://github.com/user-attachments/assets/a7fe46c7-e0c5-4e10-b258-4034b0dff659)
 ## INTRODUCTION
-This project presents a comprehensive analysis of sales performance, product inventory, and customer behavior trends for Dennis Furnishings, a company operating across multiple U.S. cities, specializing in office supplies, furnishings, and equipment. By leveraging historical data, the analysis assesses year-over-year sales trends, optimizes product offerings, and uncovers key customer behavior patterns across various regions. SQL Data Query Language (DQL) is utilized to derive actionable insights, facilitating data-driven decision-making to enhance business strategies and improve operational efficiency.
+This project presents a comprehensive analysis of sales performance, product inventory, and customer behavior trends for Dennis Furnishings Supplies, a company operating across multiple U.S. cities, specializing in office supplies, furnishings, and equipment. By leveraging historical data, the analysis assesses year-over-year sales trends, optimizes product offerings, and uncovers key customer behavior patterns across various regions. SQL Data Query Language (DQL) is utilized to derive actionable insights, facilitating data-driven decision-making to enhance business strategies and improve operational efficiency.
 
 ## PROBLEM STATEMENT
-As Dennis Furnishings continues to expand, it is essential to gain a deeper understanding of business performance across various product categories and customer segments. The company needs to identify the top-performing products driving the highest sales, determine which properties are placing the most orders, and uncover underperforming categories. This knowledge is crucial for optimizing operational efficiency and driving sustained growth.
+As Dennis Furnishings Supplies continues to expand, it is essential to gain a deeper understanding of business performance across various product categories and customer segments. The company needs to identify the top-performing products driving the highest sales, determine which properties are placing the most orders, and uncover underperforming categories. This knowledge is crucial for optimizing operational efficiency and driving sustained growth.
 
 ## AIM OF THE PROJECT
 - Analyze sales trends and performance across product categories such as office supplies and furnishings.
@@ -29,11 +29,11 @@ As Dennis Furnishings continues to expand, it is essential to gain a deeper unde
 GROUPING:** Apply SQL WHERE clauses and GROUP BY to filter and segment data by product category, region, and year.
 
 ## MODELLING
-I visualize the logical schema through an Entity-Relationship Diagram (ERD) to effectively convey the logical constraints and associations within the database. This approach enhances my understanding of the organization of the tables and their interrelationships, revealing that the dataset comprises three distinct tables: **Orders**, **Products**, and **PropertyInfo**. These tables are interconnected through primary and foreign key relationships, enabling seamless data retrieval and analysis. The ERD serves as a foundational tool for identifying how data flows between entities, ensuring clarity in the modeling process and supporting the overall analysis of sales performance and customer behavior trends for Dennis Office Supplies.
+I visualize the logical schema through an Entity-Relationship Diagram (ERD) to effectively convey the logical constraints and associations within the database. This approach enhances my understanding of the organization of the tables and their interrelationships, revealing that the dataset comprises three distinct tables: **Orders**, **Products**, and **PropertyInfo**. These tables are interconnected through primary and foreign key relationships, enabling seamless data retrieval and analysis. The ERD serves as a foundational tool for identifying how data flows between entities, ensuring clarity in the modeling process and supporting the overall analysis of sales performance and customer behavior trends for Dennis Furnishing Supplies.
 ![image](https://github.com/user-attachments/assets/cb155d10-bb09-4c2a-b777-d4f10d32648c)
 
 ## DATA ANALYSIS
-This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
+This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Furnishing Supplies.
 
 ![image](https://github.com/user-attachments/assets/d0837298-ae17-4fee-a33d-4b19e86027c9)
 
@@ -46,7 +46,7 @@ This query outputs the cities and states where Dennis Office Supplies properties
 
 
 
-This query presents the data output of the various product categories available at Dennis Office Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
+This query presents the data output of the various product categories available at Dennis Furnishing Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
 
 ![image](https://github.com/user-attachments/assets/09519594-e3c8-4966-8255-194c90427210)
 
@@ -103,7 +103,7 @@ Here are some strategic recommendations based on the insights drawn from the dat
 
 - **Regularly Reevaluate Product Pricing**: Use the price classification data to periodically reassess product pricing strategies, ensuring alignment with market demand and competition.
 
-These recommendations aim to guide stakeholders at Dennis Office Supplies toward more data-driven decisions for maximizing sales, optimizing inventory, and improving overall business performance.
+These recommendations aim to guide stakeholders at Dennis Furnishing Supplies toward more data-driven decisions for maximizing sales, optimizing inventory, and improving overall business performance.
 
 ## THANK YOU
 For more information, you can contact me
