@@ -58,3 +58,12 @@ This query outputs the product categories along with the corresponding number of
 This query reveals the five most expensive products, with the **King Bed** priced highest at $300, followed by the **Double Bed**. On the lower end, **Washcloth**, **Flyer Holder**, and **Paper Clips** are among the least expensive products, each priced at $3. This analysis highlights the pricing distribution of products, offering insights into premium versus budget product categories and helping guide pricing strategies and sales focus.
 
 ![image](https://github.com/user-attachments/assets/9f067ab4-2f1e-48c2-9777-675277913f78)
+
+
+
+This query displays the average price of products in each category, revealing that **Furnishings** has the highest average price at $83.65, followed by **Public Areas**. In contrast, **Office Supplies** has the lowest average price at $22.69, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
+![image](https://github.com/user-attachments/assets/8a0dc9b7-9aeb-4e08-b522-1df491db5fb7)
+
+
+
+
