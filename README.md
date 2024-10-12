@@ -33,12 +33,11 @@ I visualize the logical schema through an Entity-Relationship Diagram (ERD) to e
 ![image](https://github.com/user-attachments/assets/cb155d10-bb09-4c2a-b777-d4f10d32648c)
 
 ## DATA ANALYSIS
-This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
+*1.* This query retrieves a comprehensive dataset that encompasses all relevant details about orders, products, and properties. By joining the **Orders**, **Products**, and **PropertyInfo** tables, it provides a holistic view of each order, including information such as order IDs, product names, categories, pricing, quantities ordered, and the associated property details. This integrated output enables a thorough analysis of sales performance and customer behavior, facilitating data-driven decision-making for Dennis Office Supplies.
 ![image](https://github.com/user-attachments/assets/d0837298-ae17-4fee-a33d-4b19e86027c9)
 
 
-
-This query outputs the cities and states where Dennis Office Supplies properties are located, revealing that the company operates across 20 states in the United States. By providing a detailed view of the geographic distribution of these properties, the query allows for better understanding of the company’s market presence and customer reach, enabling targeted strategies for sales and inventory management in different regions.
+*2.* This query outputs the cities and states where Dennis Office Supplies properties are located, revealing that the company operates across 20 states in the United States. By providing a detailed view of the geographic distribution of these properties, the query allows for better understanding of the company’s market presence and customer reach, enabling targeted strategies for sales and inventory management in different regions.
 ![image](https://github.com/user-attachments/assets/d7ed9c74-3d8c-4069-9678-63263952b2d2)
 
 
