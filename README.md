@@ -50,5 +50,6 @@ This query presents the data output of the various product categories available 
 
 
 This query outputs the product categories along with the corresponding number of products in each category. The results reveal that **Furnishings** leads with the highest count of 26 products, followed by **Public Areas**, while **Office Supplies** has the lowest count with 13 products. This analysis offers valuable insights into the distribution of products across categories, helping to identify areas of focus for inventory optimization and potential adjustments in product availability.
+
 ![image](https://github.com/user-attachments/assets/8a9b123d-fdf9-4761-ba96-e8e14492ce51)
 
