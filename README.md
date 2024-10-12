@@ -45,7 +45,8 @@ This query outputs the cities and states where Dennis Office Supplies properties
 
 
 This query presents the data output of the various product categories available at Dennis Office Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
-![image](https://github.com/user-attachments/assets/6cf2e833-a004-4492-b795-8425c8fdb6ee)
+![image](https://github.com/user-attachments/assets/09519594-e3c8-4966-8255-194c90427210)
+
 
 
 
