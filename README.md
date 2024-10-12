@@ -61,6 +61,12 @@ This query reveals the five most expensive products, with the **King Bed** price
 
 
 
+
+
+
+
+
+
 This query displays the average price of products in each category, revealing that **Furnishings** has the highest average price at $83.65, followed by **Public Areas**. In contrast, **Office Supplies** has the lowest average price at $22.69, largely due to the quantity and nature of products in that category. This analysis provides insights into price distribution across categories, helping to understand the value of products offered and informing pricing and inventory strategies.
 ![image](https://github.com/user-attachments/assets/8a0dc9b7-9aeb-4e08-b522-1df491db5fb7)
 
