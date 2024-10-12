@@ -46,3 +46,9 @@ This query outputs the cities and states where Dennis Office Supplies properties
 
 This query presents the data output of the various product categories available at Dennis Office Supplies, highlighting a total of five distinct categories. By showcasing these categories, the query provides insights into the product diversity within the store, allowing for a better understanding of inventory composition and potential areas for growth or optimization in product offerings.
 ![image](https://github.com/user-attachments/assets/6cf2e833-a004-4492-b795-8425c8fdb6ee)
+
+
+
+This query outputs the product categories along with the corresponding number of products in each category. The results reveal that **Furnishings** leads with the highest count of 26 products, followed by **Public Areas**, while **Office Supplies** has the lowest count with 13 products. This analysis offers valuable insights into the distribution of products across categories, helping to identify areas of focus for inventory optimization and potential adjustments in product availability.
+![image](https://github.com/user-attachments/assets/8a9b123d-fdf9-4761-ba96-e8e14492ce51)
+
