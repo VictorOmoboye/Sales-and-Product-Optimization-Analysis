@@ -107,4 +107,4 @@ These recommendations aim to guide stakeholders at Dennis Furnishing Supplies to
 
 ## THANK YOU
 For more information, you can contact me
-![WhatsApp Image 2024-09-25 at 6 02 53 PM](https://github.com/user-attachments/assets/f750ef0c-4162-4e8b-bf9a-ef696d4e2b03)
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
