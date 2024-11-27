@@ -1,6 +1,6 @@
 # DENNIS FURNISHING SUPPLIES SALES OPTIMIZATION ANALYSIS 
 ## Leveraging SQL Data Query Language for Data-Driven Analysis of Sales and Product Performance at Dennies Furnishing Supplies
-![image](https://github.com/user-attachments/assets/823746f7-0f3f-4c0b-a739-8fb44f1098d7)
+![image](https://github.com/user-attachments/assets/4b11900f-531f-47ce-b024-84687dbd2b4e)
 
 ## INTRODUCTION
 This project presents a comprehensive analysis of sales performance, product inventory, and customer behavior trends for Dennis Furnishings Supplies, a company operating across multiple U.S. cities, specializing in office supplies, furnishings, and equipment. By leveraging historical data, the analysis assesses year-over-year sales trends, optimizes product offerings, and uncovers key customer behavior patterns across various regions. SQL Data Query Language (DQL) is utilized to derive actionable insights, facilitating data-driven decision-making to enhance business strategies and improve operational efficiency.
